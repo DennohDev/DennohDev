@@ -11,5 +11,5 @@ jobs:
     steps:
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://dev.to/dennohdev_34"
+          feed_list: "https://dev.to/feed/dennohdev_34"
 
