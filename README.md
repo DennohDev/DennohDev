@@ -16,6 +16,11 @@
 - 🌍 Projects used by real users and institutions
 
 ---
+## 📈 GitHub Metrics
+
+![GitHub Metrics](./github-metrics.svg)
+
+---
 
 ## 🧰 Tech Stack
 
