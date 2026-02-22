@@ -5,6 +5,9 @@
   <a href="https://github.com/DennohDev">
     <img src="https://komarev.com/ghpvc/?username=DennohDev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
+  <a href="https://dennismaina-portfolio.vercel.app/">
+    <img src="https://komarev.com/ghpvc/?username=DennohDev&label=Porfolio%20page&color=0e75b6&style=flat" alt="profile views" />
+  </a>
 </p>
 
 ---
