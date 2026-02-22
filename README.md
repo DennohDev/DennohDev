@@ -61,8 +61,8 @@ I'm a passionate **Software Developer** based in Nairobi, Kenya, currently worki
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DennohDev&show_icons=true&theme=transparent&hide_border=true&title_color=0e75b6" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DennohDev&layout=compact&theme=transparent&hide_border=true&title_color=0e75b6" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DennohDev&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DennohDev&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 <br/>
